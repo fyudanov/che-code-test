@@ -1,6 +1,6 @@
 schemaVersion: 2.1.0
 metadata:
-  name: che-code
+  name: che-code-test
 components:
   - name: dev
     container:
